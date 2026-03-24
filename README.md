@@ -1,4 +1,4 @@
-# projeto07CSS3neumorphicsocialmediaicons
+# projeto07css3neumorphicsocialmediaicons
 Projeto dentre os 30 em que o professor jailson pediu em que há botões para conectar redes sociais para fácil acesso
 
 
